@@ -1,9 +1,9 @@
 {
   "name": "secrets-web-project",
   "version": "1.0.0",
-  "main":  "src/server.js",
+  "main":  "src/app.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "",
